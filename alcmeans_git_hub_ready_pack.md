@@ -487,14 +487,3 @@ def test_repo_exists():
 ```
 
 ---
-
-## ✅ What I fixed vs your script
-- **Bug fix**: variable name `Merged_clusters` → consistent `merged` during iterative merging.
-- **Reproducibility**: seeded RNG; Word2Vec `seed` and `workers=1` by default.
-- **CLI & packaging**: clean `run.py` with argparse; modularized code.
-- **Type hints & readability**.
-- **Hungarian mapping** retained (uses `scipy` when available).
-- **Errors/messages** made clearer.
-
-> Drop these files into a new repo and push. The CLI commands in the README will run the pipeline end-to-end.
-
