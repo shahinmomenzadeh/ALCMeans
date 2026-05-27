@@ -204,10 +204,7 @@ If you use this code or build on this work, please cite:
   doi     = {10.22103/jmmr.2026.25756.1849}
 }
 ```
----
-License
-Specify the license before public release. For academic code, MIT, Apache-2.0, or BSD-3-Clause are common options. If datasets are redistributed, make sure their original licenses permit redistribution.
----
+
 Project Status
 This repository is a research implementation of the ALCMean's community detection algorithm. It is suitable for demonstrating work in graph mining, unsupervised learning, network analysis, representation learning, and community detection.
 Click on alcmeans_git_hub_ready_pack.md. The code and all the explanations are in the file.
