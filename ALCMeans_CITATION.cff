@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "ALCMean's: Unsupervised Community Detection Using Local Laplacian, Automatic Detection of the Number of Centers"
+authors:
+  - family-names: Momenzadeh
+    given-names: Shahin
+    orcid: "https://orcid.org/0009-0007-2667-9030"
+  - family-names: Pir Mohammadiani
+    given-names: Rojiar
+    orcid: "https://orcid.org/0000-0003-2998-1562"
+year: 2026
+doi: "10.22103/jmmr.2026.25756.1849"
+journal: "Journal of Mahani Mathematical Research"
+volume: "15"
+issue: "2"
+start: 269
+end: 288
+repository-code: "https://github.com/shahinmomenzadeh/ALCMeans.git"
+keywords:
+  - community detection
+  - graph mining
+  - Laplacian energy
+  - DeepWalk
+  - K-Means
+  - unsupervised learning
